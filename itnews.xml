@@ -1,0 +1,18 @@
+<?xml version="1.0"?> 
+<itnews>
+    <newsitem type="europe">
+        <title>hardware</title>
+        <author>Steve Jobs</author>
+        <article>the latest hardware news from Apple</article>
+    </newsitem>
+    <newsitem type="europe">
+        <title>software</title>
+        <author>Larry Ellison</author>
+        <article>the latest sotfware news from Oracle</article>
+    </newsitem>
+    <newsitem type="europe">
+        <title>os</title>
+        <author>Bill Gates</author>
+        <article>the latest os news from Microsoft</article>
+    </newsitem>
+</itnews> 
