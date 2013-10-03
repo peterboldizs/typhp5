@@ -4,6 +4,7 @@
 //git reset options
 //soft reset
 //now testing stash, stash@{2}
+//branch test: before create
 list (,$firstname) =$argv;
 echo "Hello from command line: $firstname\n";
 ?>
