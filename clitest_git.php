@@ -1,5 +1,6 @@
 #!/usr/bin/php -q
 <?php
+//this is in learngit
 //this is to test git operations
 //git reset options
 //soft reset
