@@ -1,5 +1,6 @@
 #!/usr/bin/php -q
 <?php
+//master
 //this is to test git operations
 //git reset options
 //soft reset
@@ -7,10 +8,6 @@
 //branch test: before create
 //branch test: after creating learngit branch
 //branch test: after creating devpool branch
-//this is in devpool
-//master
-
-
 list (,$firstname) =$argv;
 echo "Hello from command line: $firstname\n";
 ?>
