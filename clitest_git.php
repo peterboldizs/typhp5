@@ -15,5 +15,3 @@ echo "Hello from command line: $firstname\n";
 
 
 //in learngit
-
-?>
